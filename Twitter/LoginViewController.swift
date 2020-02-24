@@ -2,8 +2,8 @@
 //  LoginViewController.swift
 //  Twitter
 //
-//  Created by Quentin-Allen Velayo Fernandez on 2/16/20.
-//  Copyright © 2020 Dan. All rights reserved.
+//  Created by Quentin-Allen Fernandez on 2/16/20.
+//  Copyright © 2020 Quentin-Allen Fernandez. All rights reserved.
 //
 
 import UIKit

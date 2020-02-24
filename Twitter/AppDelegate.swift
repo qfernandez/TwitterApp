@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Twitter
 //
-//  Created by Dan on 1/3/19.
-//  Copyright © 2019 Dan. All rights reserved.
+//  Created by Quentin-Allen Fernandez on 2/16/20.
+//  Copyright © 2020 Quentin-Allen Fernandez. All rights reserved.
 //
 
 import UIKit
