@@ -1,6 +1,6 @@
-# Project 3 - Twitter
+# Project 3 - Twitter Clone
 
-Twitter is a basic twitter app to read your tweets.
+TwitterApp is a basic twitter app to read your tweets.
 
 Time spent: 3 hours spent in total
 
@@ -13,6 +13,9 @@ The following **required** functionality is completed:
 - [x] User can log out. (1pt)
 - [x] User stays logged in across restarts. (1pt)
 - [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [x] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
 
@@ -23,5 +26,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/GuPPEaQfxh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/qYZSbIuKfG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
