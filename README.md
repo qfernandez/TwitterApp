@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - Twitter Clone
 
 TwitterApp is a basic twitter app to read your tweets.
 
@@ -13,6 +13,9 @@ The following **required** functionality is completed:
 - [x] User can log out. (1pt)
 - [x] User stays logged in across restarts. (1pt)
 - [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [x] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
 
